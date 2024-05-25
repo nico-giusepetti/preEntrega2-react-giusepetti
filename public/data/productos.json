@@ -1,0 +1,247 @@
+
+[
+    {
+        "id": 1,
+        "nombre": "RELIEF - AMINOACIDOS BCAA",
+        "descripcion": "Aminoácidos BCAA en cápsulas para mejor rendimiento y recuperacion",
+        "precio": 9054,
+        "imagen": "/assets/bcaa-slmflabs.jpg.webp",
+        "categoria": "recuperacion-muscular",
+        "contenido": "250 capsulas",
+        "marca":"SLMF LABS",
+        "stock": "25"
+    },
+    {
+        "id": 2,
+        "nombre": "REVIVAL - AMINOACIDOS",
+        "descripcion": "Aminoácidos en cápsulas. Son una potente mezcla de los tres aminoácidos ramificados encadenados más otros aminos esenciales para ayudar a construir las proteínas de su cuerpo",
+        "precio": 17702,
+        "imagen": "/assets/aminoacidos-slmflabs.jpg.webp",
+        "categoria": "recuperacion-muscular",
+        "contenido": "340 capsulas",
+        "marca":"SLMF LABS",
+        "stock": "20"
+    },
+    {
+        "id": 3,
+        "nombre": "PROVOKE - OXIDO NÍTRICO",
+        "descripcion": "Óxido nítrico en cápsulas. Pre entreno sin estimulantes para maximizar un entrenamiento de calidad, lleno de energía, bombeo y concentración.",
+        "precio": 13734,
+        "imagen": "/assets/oxido-nitrico-slmflabs.jpg.webp",
+        "categoria": "energizantes",
+        "contenido": "120 capsulas",
+        "marca":"SLMF LABS",
+        "stock": "18"
+    },
+    {
+        "id": 4,
+        "nombre": "MAD STRENGTH - PRO HORMONAL",
+        "descripcion": "Pro hormonal en cápsulas. Evita la descompensación hormonal causada por la edad, el estrés o factores genéticos degradantes.",
+        "precio": 18273,
+        "imagen": "/assets/pro-hormonal-slmflabs.jpg.webp",
+        "categoria": "recuperacion-muscular",
+        "contenido": "60 capsulas",
+        "marca":"SLMF LABS",
+        "stock": "11"
+    },
+    {
+        "id": 5,
+        "nombre": "VITAL - VITAMINAS Y MINERALES",
+        "descripcion": "Vitaminas y minerales en cápsulas. Fortalecen el sistema inmunológico. Esenciales en el metabolismo y necesarias para el desarrollo y buen funcionamiento del cuerpo.",
+        "precio": 11394,
+        "imagen": "/assets/vitaminas-slmflabs.jpg.webp",
+        "categoria": "vitaminas-y-minerales",
+        "contenido": "90 capsulas",
+        "marca":"SLMF LABS",
+        "stock": "8"
+    },
+    {
+        "id": 6,
+        "nombre": "REVIVAL - GLUTAMINA",
+        "descripcion": "Glutamina en polvo. Reactiva las fibras musculares dañadas y aumenta la asimilación proteica. Recupérate más rápido del entrenamiento.",
+        "precio": 13683,
+        "imagen": "/assets/glutamina-slmflabs.jpg.webp",
+        "categoria": "recuperacion-muscular",
+        "contenido": "500 gr",
+        "marca":"SLMF LABS",
+        "stock": "6"
+    },
+    {
+        "id": 7,
+        "nombre": "WHEY PROTEIN",
+        "descripcion": "Proteína en polvo  para preparar bebida a base de proteínas de suero. Compuesta por ultra concentrado, aislado e hidrolizado de suero de máxima pureza, obtenidos por métodos no agresivos que garantizan la calidad y estabilidad del producto.",
+        "precio": 23619,
+        "imagen": "/assets/proteina-star.jpg",
+        "categoria": "proteinas",
+        "contenido": "2 lb",
+        "marca":"STAR NUTRTION",
+        "stock": "28"
+    },
+    {
+        "id": 8,
+        "nombre": "CREATINE MONOHYDRATE",
+        "descripcion": "Creatina en polvo. La creatina micronizada es la unión de tres aminoácidos que ofrece mayores ventajas que la creatina normal, mejorando su asimilación. La creatina monohidrato es recomendada durante un plan de entrenamiento para aumentar la fuerza, resistencia y recuperación.",
+        "precio": 23438,
+        "imagen": "/assets/creatina-star.jpg",
+        "categoria": "creatinas",
+        "contenido": "300 gr",
+        "marca":"STAR NUTRTION",
+        "stock": "21"
+    },
+    {
+        "id": 9,
+        "nombre": "QUEMADOR DE GRASA",
+        "descripcion": "Quemador de grasa en comprimidos. La L-Carnitina es una molécula similar a las vitaminas que cumple numerosas funciones en el organismo, estimula el rompimiento de las grasas. Los músculos necesitan una suministro regular de Carnitina para permanecer en tono y saludables, STAR NUTRITION utiliza únicamente 100% USP L-Carnitina de alta pureza.",
+        "precio": 8718,
+        "imagen": "/assets/quemador-star.jpg",
+        "categoria": "control-de-peso",
+        "contenido": "60 comprimidos",
+        "marca":"STAR NUTRTION",
+        "stock": "9"
+    },
+    {
+        "id": 10,
+        "nombre": "COLÁGENO HIDROLIZADO",
+        "descripcion": "Colágeno hidrolizado en polvo. Suplemento dietario en polvo dietético a base de Colágeno hidrolizado, Coenzima Q10, Acido Hialurónico, Resveratrol y Vitamina C. Libre de Gluten. Sin TACC.",
+        "precio": 11511,
+        "imagen": "/assets/colageno-star.jpg",
+        "categoria": "vitaminas-y-minerales",
+        "contenido": "210 gr",
+        "marca":"STAR NUTRTION",
+        "stock": "7"
+    },
+    {
+        "id": 11,
+        "nombre": "L-GLUTAMINE",
+        "descripcion": "Glutamina micronizada en polvo. RECUPERACIÓN Y CRECIMIENTO MUSCULAR. EVITA LA OXIDACIÓN MUSCULAR. REGENERA Y RECUPERA TEJIDOS",
+        "precio": 17643,
+        "imagen": "/assets/glutamina-star.jpg",
+        "categoria": "recuperacion-muscular",
+        "contenido": "300 gr",
+        "marca":"STAR NUTRTION",
+        "stock": "14"
+    },
+    {
+        "id": 12,
+        "nombre": "MTOR BCAA",
+        "descripcion": "Aminoácidos ramificados en polvo. MTOR BCAA es un suplemento formulado con aminoácidos, creado para consumir durante y después del entrenamiento. Contiene una acción anabólica y anticatabólica. Sus principales beneficios son: -Recuperación muscular más rápida. A mayor recuperación, más aumento muscular. -Mejora el rendimiento, ayudando a la intensidad del ejercicio. -Previene la fatiga muscular.",
+        "precio": 17032,
+        "imagen": "/assets/bcaa-star.jpg",
+        "categoria": "recuperacion-muscular",
+        "contenido": "270 gr",
+        "marca":"STAR NUTRTION",
+        "stock": "23"
+    },
+    {
+        "id": 13,
+        "nombre": "100% WHEY",
+        "descripcion": "Proteína de suero en polvo. La principal función de las proteínas es contribuir con la regeneración muscular. Es por esto que los suplementos proteicos suelen ser utilizados en ciertas circunstancias, por ejemplo ante el aumento de la intensidad del ejercicio, la recuperación luego de una lesión o para complementar la alimentación de personas veganas y vegetarianas. Algunos de los beneficios son: su consumo fácil, su bajo contenido en azúcares y grasas y la posible reducción del apetito.",
+        "precio": 28350,
+        "imagen": "/assets/proteina-ena.webp",
+        "categoria": "proteinas",
+        "contenido": "2 lb",
+        "marca":"ENA SPORT",
+        "stock": "30"
+    },
+    {
+        "id": 14,
+        "nombre": "AMINO 4500",
+        "descripcion": "Aminoácidos en capsulas. Es la perfecta mezcla de aminoácidos para ayudar a aquellos que quieren entrenar más fuerte y recuperarse más rápido. Usado después del entrenamiento, acelera la recuperación y maximiza el crecimiento muscular. ",
+        "precio": 23550,
+        "imagen": "/assets/aminoacidos-ena.webp",
+        "categoria": "recuperacion-muscular",
+        "contenido": "150 capsulas",
+        "marca":"ENA SPORT",
+        "stock": "12"
+    },
+    {
+        "id": 15,
+        "nombre": "AMINOACIDOS RAMNIFICADOS BCAA 12:1:1",
+        "descripcion": "Aminoácidos ramificados BCAA en cápsulas. Favorece la recuperación y aumento de la masa muscular. - Contiene L-leucina, L-Isoleucina y L-Valina. - Aporta 1800 mg de L-Leucina por porción.- Optimiza el rendimiento deportivo. - Promueve la síntesis de proteínas musculares.",
+        "precio": 13450,
+        "imagen": "/assets/bcaa-ena.webp",
+        "categoria": "recuperacion-muscular",
+        "contenido": "120 capsulas",
+        "marca":"ENA SPORT",
+        "stock": "15"
+    },
+    {
+        "id": 16,
+        "nombre": "COLÁGENO SPORT",
+        "descripcion": "Colágeno hidrolizado en polvo. Mejora tu rendimiento deportivo y cuida tus articulaciones con el Colageno Sport ENA, un suplemento de alta calidad con 407 gramos de colágeno, magnesio, cúrcuma y ácido hialurónico",
+        "precio": 25350,
+        "imagen": "/assets/colageno-ena.webp",
+        "categoria": "vitaminas-y-minerales",
+        "contenido": "407 gr",
+        "marca":"ENA SPORT",
+        "stock": "6"
+    },
+    {
+        "id": 17,
+        "nombre": "CREATINA MICRONIZADA",
+        "descripcion": "Creatina micronizada en polvo. La Creatina Micronizada de ENA disminuye la fatiga luego de la actividad y ayuda al aumento de la fuerza muscular. Rápida absorción + Energía inmediata.",
+        "precio": 30700,
+        "imagen": "/assets/creatina-ena.webp",
+        "categoria": "creatinas",
+        "contenido": "300 gr",
+        "marca":"ENA SPORT",
+        "stock": "22"
+    },
+    {
+        "id": 18,
+        "nombre": "GLUTAMINA MICRONIZADA",
+        "descripcion": "Glutamina micronizada en polvo. La glutamina es un aminoácido que se encuentra presente en alimentos como el pescado, la carne y el huevo. Es un componente producido naturalmente por nuestro cuerpo, pero en ciertas situaciones su generación puede verse disminuida por distintos factores. Este suplemento contribuye a la recuperación muscular y se recomienda tomarla antes o después de entrenar, al levantarse o antes de dormir.",
+        "precio": 25900,
+        "imagen": "/assets/glutamina-ena.webp",
+        "categoria": "recuperacion-muscular",
+        "contenido": "300 gr",
+        "marca":"ENA SPORT",
+        "stock": "14"
+    },
+    {
+        "id": 19,
+        "nombre": "ÓXIDO NÍTRICO",
+        "descripcion": "Óxido nítrico en polvo. Potente vaso dilatador de masa muscular, rápida recuperación. Fórmula precursora de óxido nítrico, elaborado con arginina alfa ceto glutarato, ornitina y glucosa. El óxido nítrico es un compuesto muy importante para la fisiología de nuestro organismo. Actúa como vasodilatador haciendo que la sangre circule a mayor velocidad, aumentando así el aporte de oxígeno y de nutrientes a los músculos.",
+        "precio": 9500,
+        "imagen": "/assets/oxido-nitrico-ena.webp",
+        "categoria": "energizantes",
+        "contenido": "210 gr",
+        "marca":"ENA SPORT",
+        "stock": "15"
+    },
+    {
+        "id": 20,
+        "nombre": "PRE WAR",
+        "descripcion": "Pre entrenamiento en polvo. PRE WAR es la siguiente evolución en pre entrenamientos. Diseñado con precisión para desafiar tus límites, favorece la concentración, el aumento de energía, la fuerza, el tamaño muscular y la recuperación. Entrena con nuestro Pre work más completo y con fórmula mejorada con 200mg de cafeína por ingesta.",
+        "precio": 24550,
+        "imagen": "/assets/pre-entreno-ena.webp",
+        "categoria": "energizantes",
+        "contenido": "400 gr",
+        "marca":"ENA SPORT",
+        "stock": "8"
+    },
+    {
+        "id": 21,
+        "nombre": "MULTIVITAMIN",
+        "descripcion": "Multivitamínico en comprimidos. MULTIVITAMIN Ena Sport es un suplemento multivitamínico completo con vitaminas y minerales, diseñado para apoyar la salud física. Incluye cafeína para estimular la concentración y el rendimiento. Las Vitaminas del complejo B contribuyen a mantener los niveles de energía, reducir la fatiga y mejorar la resistencia al estrés físico y mental.",
+        "precio": 10350,
+        "imagen": "/assets/vitaminas-ena.webp",
+        "categoria": "vitaminas-y-minerales",
+        "contenido": " 60 comprimidos",
+        "marca":"ENA SPORT",
+        "stock": "13"
+    },
+
+    {
+        "id": 22,
+        "nombre": "SHAKER",
+        "descripcion": "Disfruta de un batido sin grumos, diseñado para una fácil disolución. Ayuda a romper las partículas de polvo. Es ideal para productos en polvo que requieran una disolución excelente, tanto en agua como en leche. El Vaso Batidor tiene un aro en forma de estrella en su interior que facilita la disolución de las partículas con el batido. Mezclar proteínas espesas es sencillo con este vaso.",
+        "precio": 3500,
+        "imagen": "/assets/shaker.jpeg",
+        "categoria": "accesorios",
+        "contenido": "500 cm3 (capacidad de batido)",
+        "marca":"SLMF LABS",
+        "stock": "10"
+    }
+    
+]
